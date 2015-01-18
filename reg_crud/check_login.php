@@ -50,8 +50,8 @@ if($row)
     //(SEND Data to the SESSION and GO to The Dashboard)
 
     $_SESSION['id']=$row['id'];
-    $_SESSION['firstname']=$row['firstname'];
-    $_SESSION['lastname']=$row['lastname'];
+    $_SESSION['firstname']=$row['first_name'];
+    $_SESSION['lastname']=$row['last_name'];
     $_SESSION['email']=$row['email'];
     $_SESSION['password']=$row['password'];
     $_SESSION['gender']=$row['gender'];
@@ -59,6 +59,8 @@ if($row)
     $_SESSION['hobby']=$row['hobby'];
     $_SESSION['city']=$row['city'];
     $_SESSION['comment']=$row['comment'];
+    $_SESSION['created']=$row['created'];
+    $_SESSION['modified']=$row['modified'];
 
     header('location: dashboard1.php');
 
