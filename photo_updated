@@ -113,8 +113,8 @@
 
             <div class="carousel-inner">
                 <div class="item active">
-                    <a href="#" class="tooltip-test" data-toggle="tooltip"
-                       title="Unforgettable Memory">
+                    <a href="about-us.html" class="tooltip-test" data-toggle="tooltip"
+                       title="Wanna know more about me?">
                     <img src="images/3.jpg" class="img-responsive" alt=""></a>
                 </div>
                 <div class="item">
