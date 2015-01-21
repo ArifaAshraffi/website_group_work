@@ -2,7 +2,232 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2c729f0-4d24-45a0-b071-484520f3565d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact-me.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/404.xcf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/accordion1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/ads/ad1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/ads/ad2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/ads/ad3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/ads/ad4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/ami.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/amiami.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/service/amiami.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/services/amiami.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/amra.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/slider/amra.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/ico/apple-touch-icon-114-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/ico/apple-touch-icon-144-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/ico/apple-touch-icon-57-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/ico/apple-touch-icon-72-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/arifa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/avatar1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/avatar2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/avatar3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/slider/bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/slider/bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/slider/bg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/services/bg_services.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/services/bg_services.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/blog1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/blog2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/boy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/boy2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/boy3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/dark_rounded/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/dark_square/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/facebook/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/light_rounded/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/light_square/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/dark_rounded/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/dark_square/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/facebook/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/light_rounded/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/light_square/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/client1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/service/client1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/client2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/service/client2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/client3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/service/client3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/comments_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/contact.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/dark_rounded/contentPattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/dark_square/contentPattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/facebook/contentPatternBottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/facebook/contentPatternLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/facebook/contentPatternRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/facebook/contentPatternTop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/default/default_thumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/dark_rounded/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/dark_square/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/facebook/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/light_rounded/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/light_square/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/ico/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/gallery/gallery1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/gallery1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/gallery/gallery2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/gallery2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/gallery/gallery3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/gallery3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/gallery/gallery4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/gallery4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/gallery/gallery5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/gallery5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/gallery/gallery6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/gallery6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/girl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/image_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/service/image_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/slider/img1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/slider/img2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/slider/img3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/full/item1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/recent/item1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/full/item10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/recent/item10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/full/item11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/recent/item11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/full/item12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/recent/item12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/full/item2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/recent/item2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/full/item3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/recent/item3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/full/item4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/recent/item4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/full/item5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/recent/item5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/full/item6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/recent/item6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/full/item7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/recent/item7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/full/item8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/recent/item8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/full/item9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/portfolio/recent/item9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/jerin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/slider/jerin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/dark_rounded/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/dark_square/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/default/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/facebook/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/light_rounded/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/light_square/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/service/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/man1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/man2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/man3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/man4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/map.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/moina.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/slider/moina.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/partners/partner1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/partners/partner2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/partners/partner3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/partners/partner4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/partners/partner5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/partners/partner_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/pic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/reshma.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/gallery/reshma.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/ribon_one.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/ribon_two.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/rumpa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/gallery/rumpa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/search_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/services/services1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/services/services2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/services/services3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/services/services4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/services/services5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/services/services6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/sir.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/slider/sir.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/services/slider-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/slider_one.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/dark_rounded/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/dark_square/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/default/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/facebook/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/light_rounded/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/light_square/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/default/sprite_next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/default/sprite_prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/default/sprite_x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/prettyPhoto/default/sprite_y.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/tab1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/tab2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/team-member.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/testimonials1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/thumb1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/thumb2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/blog/thumb3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/tumi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/tumpa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/wakila.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/youkina.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/gallery/youkina.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/images/slider/youkina.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/about_me.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/add_personal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/blog-item.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/css/bootstrap1.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/css/bootstrap2.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/js/bootstrap3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/check_login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/dashboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/dashboard1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/gallery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/.idea/group_task.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/js/jquery.isotope.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/js/jquery.prettyPhoto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/nav.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/portfolio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/css/prettyPhoto.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/registration.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/css/responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/sendemail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/services.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/shortcodes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/sign_in.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_task(Tumpa)/js/wow.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="website_group_work.iws" />
@@ -31,7 +256,7 @@
       <file leaf-file-name="dashboard1.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reg_crud/dashboard1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="540">
+            <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="612">
               <caret line="8" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
             </state>
@@ -41,17 +266,17 @@
       <file leaf-file-name="contact" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3450">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3910">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact-me.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact-me.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact-me.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9502924" vertical-offset="3995" max-vertical-offset="4410">
+            <state vertical-scroll-proportion="-17.961538" vertical-offset="4429" max-vertical-offset="4998">
               <caret line="288" column="7" selection-start-line="288" selection-start-column="7" selection-end-line="288" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -60,10 +285,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/group_task(Tumpa)/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="sign_in.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reg_crud/sign_in.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1065">
+            <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1207">
               <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
@@ -73,7 +308,7 @@
       <file leaf-file-name="form.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reg_crud/form.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1665" max-vertical-offset="2640">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2992">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -90,20 +325,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="changedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/reg_crud/dashboard1.php" />
-        <option value="$PROJECT_DIR$/contact-me.html" />
-      </list>
-    </option>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="80" />
-    <option name="width" value="1301" />
-    <option name="height" value="686" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -131,6 +361,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -139,51 +370,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="website_group_work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="website_group_work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="website_group_work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="website_group_work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reg_crud" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\website_group_work" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
@@ -194,8 +402,11 @@
       <node-options />
       <gulpfile />
       <tasks />
-      <pass-parent-env-vars>false</pass-parent-env-vars>
+      <pass-parent-envs>true</pass-parent-envs>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -214,28 +425,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="80" width="1301" height="686" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2490392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3427673" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34304208" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24889868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -259,6 +470,48 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/reg_crud/dashboard1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="612">
+          <caret line="8" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3910">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact-me.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4998">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg_crud/sign_in.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1207">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg_crud/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2992">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/reg_crud/dashboard1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
@@ -301,7 +554,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/reg_crud/dashboard1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="540">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="612">
           <caret line="8" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
@@ -317,7 +570,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contact-me.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9502924" vertical-offset="3995" max-vertical-offset="4410">
+        <state vertical-scroll-proportion="-17.961538" vertical-offset="4429" max-vertical-offset="4998">
           <caret line="288" column="7" selection-start-line="288" selection-start-column="7" selection-end-line="288" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -325,6 +578,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/group_task(Tumpa)/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
-
