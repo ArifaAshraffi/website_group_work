@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Home | Corlate</title>
+
+    <!-- core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/animate.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <link rel="shortcut icon" href="images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+</head><!--/head-->
+<body>
+<?php
+include_once('header.php');
+?>
+
+<section id="about-us">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8">
+                <div class="center wow fadeInDown">
+                    <div class="skill-wrap clearfix">
+
+                        <div class="center wow fadeInDown">
+                            <h2 class="text-primary">Piano Note's Slides</h2></div>
+
+                        <div id="about-slider">
+                            <div id="carousel-slider" class="carousel slide" data-ride="carousel">
+                                <!-- Indicators -->
+                                <ol class="carousel-indicators visible-xs">
+                                    <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
+                                    <li data-target="#carousel-slider" data-slide-to="1"></li>
+                                    <li data-target="#carousel-slider" data-slide-to="2"></li>
+                                </ol>
+
+                                <div class="carousel-inner">
+                                    <div class="item active">
+                                        <a href="about_me.php" class="tooltip-test" data-toggle="tooltip"
+                                           title="Wanna know more about me?">
+                                            <img src="images/piano/1.jpg" class="img-responsive" alt=""></a>
+                                    </div>
+                                    <div class="item">
+                                        <img src="images/piano/3.JPG" class="img-responsive" alt="">
+                                    </div>
+                                    <div class="item">
+                                        <img src="images/piano/6.jpg" class="img-responsive" alt="">
+                                    </div>
+                                    <div class="item">
+                                        <img src="images/piano/4.jpg" class="img-responsive" alt="">
+                                    </div>
+                                    <div class="item">
+                                        <img src="images/piano/2.jpg" class="img-responsive" alt="">
+                                    </div>
+                                    <div class="item">
+                                        <img src="images/piano/5.jpg" class="img-responsive" alt="">
+                                    </div>
+                                </div>
+
+                                <a class="left carousel-control hidden-xs" href="#carousel-slider" data-slide="prev">
+                                    <i class="fa fa-angle-left"></i>
+                                </a>
+
+                                <a class=" right carousel-control hidden-xs"href="#carousel-slider" data-slide="next">
+                                    <i class="fa fa-angle-right"></i>
+                                </a>
+                            </div> <!--/#carousel-slider-->
+                        </div><!--/#about-slider-->
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4" class="col-sm-offset-2">
+                </br>
+                </br>
+                </br>
+                </br>
+                </br>
+                <div class="center wow fadeInDown">
+                    <div class="skill-wrap clearfix">
+
+                        <div class="center wow fadeInDown">
+                            <ul class="list-group" class="text-left">
+                                <li class="list-group-item list-group-item-success">
+                            <h3> Piano Tutorial</br><span class="label label-primary">Easiest Ever!!!</span></l1></br></br>
+                                <li class="list-group-item list-group-item-success">
+                            Soft Kitty Warm Kitty <span class="label label-success">4M BBT</span></br></li>
+                                <li class="list-group-item list-group-item-success">
+                            Happy Birthday To You<span class="label label-danger">Classic</span></br></li>
+                                <li class="list-group-item list-group-item-success">
+                            Every Night in My Dreams<span class="label label-warning">Rose's Theme</span></br></li>
+                                <li class="list-group-item list-group-item-success">
+                                    Tum hi Ho<span class="label label-info">Instrumental</span></br></li>
+                                <li class="list-group-item list-group-item-success">
+                            Kal Ho na ho <span class="label label-danger">Classic</span></br></li>
+                                <li class="list-group-item list-group-item-success">
+                            Bella's Lullaby <span class="label label-default">Full</span></h3></br>
+                               </li> </ul>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="error" class="container text-center">
+    <a class="btn btn-primary" href="index.php">GO BACK TO THE HOMEPAGE</a>
+</section><!--/#error-->
+
+<?php
+include_once('footer.php');
+?>
+
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.prettyPhoto.js"></script>
+<script src="js/jquery.isotope.min.js"></script>
+<script src="js/main.js"></script>
+<script src="js/wow.min.js"></script>
+
+</body>
+</html>
